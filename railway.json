@@ -1,0 +1,8 @@
+{
+  "envs": {
+    "BROKER_URL": {
+      "fromService": "Redpanda",
+      "property": "BROKER_URL"
+    }
+  }
+}
